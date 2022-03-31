@@ -1,0 +1,185 @@
+body{
+ background-color: rgb(0, 0, 0);
+ /* font-family: 'Josefin Sans', sans-serif; */
+ font-family: 'Mada', sans-serif;
+ 
+}
+header{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.holder{
+    background-color: #0A7373;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-bottom: 30px;
+}
+.me{
+    border-radius: 50%;
+    width: 150px;
+    border: 3px solid #fff;
+}
+.me:hover{
+
+    transform: scale(1.8);
+}
+h1{
+    padding-top: 70px;
+    color: #010221;
+}
+h2{
+    color: #010221;
+margin-bottom: 60px;
+    
+}
+.work{
+    color: #010221;
+    border-bottom: 1px solid #010221;
+    width: 340px;
+    font-size: 30px;
+    font-weight:bold;
+}
+.hrube{
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.tenke{
+    font-size: 16px;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-weight: 550;
+}
+.section-2{
+    margin-top: 45px;
+
+}
+#university{
+    text-decoration: underline;
+    color: #525252;
+    
+}
+.hornaCast{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 0px;
+
+}
+#odsadenieVpravo{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.spodok{
+    width: 320px;  
+}
+.nejaka{
+    display: flex;
+}
+.Languages{
+    margin-left: 126px;
+    margin-right: auto;
+    width: 340px
+}
+
+.Adresa{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 100px;
+}
+
+#contact{
+    border-bottom: none;
+}
+
+.photo{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.info{
+    border: 1px solid white;
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+}
+
+.mail , .telc{
+    font-size:21px;
+    color: #012a58;
+    text-decoration: none;
+    
+}
+
+
+
+.about{
+    margin-left: 3px;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 25px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.aboout{
+    margin-left: 58px;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-weight: 500;
+    font-size: 20px; 
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.flex{
+    display: flex;
+}
+
+.message{
+    height: 25px;
+    margin-top: 6px;
+    margin-left: 1px;
+}
+
+#toggleThis{
+    background:rgb(0, 0, 0);
+    width: 500px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    border: none;  
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+    font-family: 'Cabin Sketch', cursive;
+}
+
+.hide{
+    display: none;
+}
+
+#show{
+  color: white;
+  background-color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+}
+#clickHere{
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#clickHeree{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
